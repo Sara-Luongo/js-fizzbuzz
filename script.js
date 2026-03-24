@@ -8,12 +8,12 @@ for (let i = 1; i <= 100; i++) {
 
     //calcolo con operatore di modulo tutti i multipli di 3 e di 5
     if (i % 3 === 0 && i % 5 === 0) {
-        console.log('fizzbuzz')
+        console.log('FizzBuzz')
     }
 
     //calcolo con operatore di modulo tutti i multipli di 3
     else if (i % 3 === 0) {
-        console.log('fizz')
+        console.log('Fizz')
     }
 
     //calcolo con operatore di modulo tutti i multipli di 5
